@@ -1,7 +1,7 @@
 {
-  "name": "usereducer-hook",
+  "name": "use-reducer-hook",
   "version": "1.0.0",
-  "description": "useReducer Hook",
+  "description": "use Reducer Hook",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
