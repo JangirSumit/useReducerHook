@@ -1,10 +1,13 @@
-import Demo from "./components/Demo";
+import ApiCall from "./components/ApiCall";
+import Counter from "./components/Counter";
 import "./styles.css";
 
 export default function App() {
   return (
     <div className="App">
-      <Demo />
+      <Counter />
+      <br />
+      <ApiCall />
     </div>
   );
 }
